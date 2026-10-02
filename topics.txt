@@ -1,0 +1,5 @@
+# Topics to verify after rebalance
+# One topic per line, lines starting with # are ignored
+#
+# Add your example topics below:
+example.example.topic
